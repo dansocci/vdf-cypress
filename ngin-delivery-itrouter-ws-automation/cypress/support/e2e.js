@@ -1,0 +1,7 @@
+import 'cypress-plugin-api'
+import './get_commands'
+import './insert_commands'
+import './delete_commands'
+import './save_commands'
+import './update_commands'
+import './suspend_commands'

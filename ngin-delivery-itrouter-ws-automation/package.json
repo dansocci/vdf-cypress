@@ -1,0 +1,13 @@
+{
+  "name": "ngin-delivery-itrouter-ws-automation",
+  "version": "0.1.0",
+  "description": "Project to automate API tests on IT Router.",
+  "devDependencies": {
+    "cypress": "^13.11.0",
+    "cypress-mochawesome-reporter": "^3.8.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1",
+    "xml2js": "^0.6.2"
+  }
+}
